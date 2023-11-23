@@ -107,7 +107,7 @@ And this is the solution I would go for, but this is not all.
 # Method3: Using MongoDB
 Since we have varying fields, we could also use MongoDB for this database.
 Selecting MongoDB is not just about fields; the volume of data, and our backend technologies,
-our deployment environment, our data sensivity, the team expertise, could affect our decision.
+our deployment environment, our data sensitivity, the team expertise, could affect our decision.
 
 This is the structure of our Documents in MongoDB:
 
